@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/0680-valid-palindrome-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/1260-shift-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
