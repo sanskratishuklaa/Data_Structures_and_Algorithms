@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/0016-3sum-closest) |
 | [0136-single-number](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/0136-single-number) |
 | [1260-shift-2d-grid](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/1260-shift-2d-grid) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/0009-palindrome-number) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/0136-single-number) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## String
 |  |
 | ------- |
@@ -55,4 +58,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
